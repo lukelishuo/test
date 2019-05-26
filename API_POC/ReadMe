@@ -1,0 +1,7 @@
+This is a light weighted framework for API testing
+
+config: it contains the server ip and method intend to use
+paras: test data going to be used for testing
+wrappers: wrap all the test data into combination
+Tests: Test script
+unnittest: put test into unittest framework

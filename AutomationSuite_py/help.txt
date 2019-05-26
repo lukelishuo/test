@@ -1,0 +1,12 @@
+-> The framework is used is nosetest in python
+-> Design pattern used: Page Object
+-> Dependency:
+    1. Python 3.6
+    2. pip3 install selenium
+    3. pip3 install nose
+-> Commands to run : nosetests TestCase.py >result.txt 2>&1
+-> Attached the sample run result
+-> Any question kindly ask Li Shuo Luke @ dirk_lee@hotmail.com
+
+Thank you
+

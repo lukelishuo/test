@@ -1,0 +1,18 @@
+# This is the location of the parameters for functions
+
+item_searched = "#pdagDesktopSparkleDescription1"
+addbutton  = "add-to-cart-button"
+numbertable= "quantity"
+go_cart = "hlb-view-cart-announce"
+first_item = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(1) > div.sc-list-item-content > div > div.a-column.a-span8 > div > div > div.a-fixed-left-grid-col.a-col-right > ul > li:nth-child(1) > span > a > span"
+second_item = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(2) > div.sc-list-item-content > div > div.a-column.a-span8 > div > div > div.a-fixed-left-grid-col.a-col-right > ul > li:nth-child(1) > span > a > span"
+third_item = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(3) > div.sc-list-item-content > div > div.a-column.a-span8 > div > div > div.a-fixed-left-grid-col.a-col-right > ul > li:nth-child(1) > span > a > span"
+first_number ="#a-autoid-0-announce"
+second_number ="#a-autoid-2-announce"
+third_number ="#a-autoid-4-announce"
+first_number_select = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(1) > div.sc-list-item-content > div > div.a-column.a-span2.a-text-right.sc-action-links.a-span-last > div > div > span > select"
+second_number_select = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(1) > div.sc-list-item-content > div > div.a-column.a-span2.a-text-right.sc-action-links.a-span-last > div > div > span > span"
+third_number_select = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(1) > div.sc-list-item-content > div > div.a-column.a-span2.a-text-right.sc-action-links.a-span-last > div > div > span > span"
+second_scooter = "#cart-item-recs > div > div > div > div > ul > li:nth-child(1) > span > div > div > div.a-fixed-left-grid-col.a-col-right > a > div"
+delete_item = "#activeCartViewForm > div.sc-list-body.sc-java-remote-feature > div:nth-child(1) > div.sc-list-item-content > div > div.a-column.a-span8 > div > div > div.a-fixed-left-grid-col.a-col-right > div > span.a-size-small.sc-action-delete > span > input[type=\"submit\"]"
+check_total = "#sc-subtotal-amount-activecart > span"

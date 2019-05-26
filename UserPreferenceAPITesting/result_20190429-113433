@@ -1,0 +1,18 @@
+Results:
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': ',', 'decimalSeparator': ','}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': ',', 'decimalSeparator': '.'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': ',', 'decimalSeparator': "'"}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': '.', 'decimalSeparator': ','}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': '.', 'decimalSeparator': '.'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': '.', 'decimalSeparator': "'"}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': "'", 'decimalSeparator': ','}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': "'", 'decimalSeparator': '.'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': "'", 'decimalSeparator': "'"}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': ','}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': '.'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'thousandSeparator': "'"}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'decimalSeparator': ','}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'decimalSeparator': '.'}
+Sending is wrong with the data : {'dateFormat': 'dd-mm-yyyy h:mm:ss a', 'decimalSeparator': "'"}
+Sending is wrong with the data : {'dateFormat': 'mm-dd-yyyy', 'thousandSeparator': ',', 'decimalSeparator': '.'}
